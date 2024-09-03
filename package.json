@@ -24,7 +24,7 @@
         "d3-svg-annotation": "~2.5.1",
         "date-fns": "~2.16.1",
         "dateformat": "~2.2.0",
-        "fomantic-ui": "~2.8.8",
+        "fomantic-ui": "~2.9.3",
         "jquery": "~3.5.1",
         "lodash": "^4.17.21",
         "numbro": "~2.3.2",
